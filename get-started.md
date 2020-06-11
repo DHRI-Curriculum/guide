@@ -91,3 +91,5 @@ Make as many of these edits, stages, and commits, throughout your day as you wan
 _Once you are done making edits to your files for the day (or at any point that you want to make sure everything is saved in the cloud), you will want to synchronize all of your changes with GitHub._
 
 6. 
+
+7. 
