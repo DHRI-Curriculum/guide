@@ -11,7 +11,7 @@ Add each question as a regular paragraph.
 
 ## Qualitative Self-Assessment
 
-Move questions over from exit slips.
+Move all the questions over from exit slips that can be found in the GCDI Google Drive.
 
 Add each question as a regular paragraph. These qualitative questions (of course) do not need to have answers but should enable the learner to think about what they learned and how it can be used.
 
