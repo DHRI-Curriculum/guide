@@ -14,12 +14,66 @@ Select `Code` > `Preferences` > `Settings` in the menu. In the window that shows
 
 (Optional:) If you run into trouble with anything in this manual, you might also want to make sure the checkbox next to "Git: Enable Commit Signing" is unchecked.
 
-## Step 1: Clone repository
+## A. Clone Repository
 
-Navigate to the repository you want to edit.
+1. Navigate to the repository you want to edit.
 
-Copy the link from the browser window.
+2. Copy the link from the browser window.
 
-In VS Code, press the Source Control image in 
+3. In VS Code, press the Source Control image in the left-hand bar:
 
-![xxxx.img](img)
+   ![Version control icon in VS Code](images/version-control.png)
+
+   _Alternatively: you can also find the navigation bar by selecting `View` > `SCM` from the menu._
+
+4. Press the "Clone Repository" button.
+
+   _Alternatively: you can also select `View` > `Command Palette...` and type in `git clone` in the field that appears. Then press enter._
+
+5. In the field that appears, with the placeholder text "Provide repository URL," paste in the URL from Step 2 above. Then, press enter.
+
+6. Select the folder where you want to save the repository locally.
+
+7. In the dialog that appears, you can choose a new window for the repository files, by clicking "Open in New Window."
+
+## B. Select Correct Branch
+
+1. In VS Code, press the Source Control image in the left-hand bar:
+
+   ![Version control icon in VS Code](images/version-control.png)
+
+   _Alternatively: you can also find the navigation bar by selecting `View` > `SCM` from the menu._
+
+2. Press the three dots in the left-hand bar that appears:
+
+   ![A red circle indicates where the three dots can be found](images/three-dots.png)
+
+3. From the menu that appears, choose "Checkout to..."
+
+4. Start typing in the name for the branch that you will be working on (`v2.0-{your name}-edits`, for example)
+
+5. Then press the "Create new branch from..." and then select "v2.0."
+
+   _Why? This ensures that you start working from the most recent version that we have in the repository, and will also make it easier for us to synchronize your work when we move ahead to future steps in the editorial workflow.
+
+## C. Synchronize Your Edits with GitHub
+
+_Once you've made edits to your files, you will want to stage, commit, and synchronize all of your changes with git and GitHub._
+
+1. In VS Code, press the Source Control image in the left-hand bar:
+
+   ![Version control icon in VS Code](images/version-control.png)
+
+   _Alternatively: you can also find the navigation bar by selecting `View` > `SCM` from the menu._
+
+2. Under the heading "Changes," you will now see a list of all the files, that have changes that are not yet "committed" to the repository (the next "saved stage" of the repository).
+
+_"Stage" and "commit" the files_
+
+3. Press the `+` symbol next to each of the files that you want to stage.
+
+4. Put a message in the box on the top of the list:
+
+   ![Stage and commit part of the workflow in VS Code](images/stage-and-commit.png)
+
+5. Once you have finished your message press `⌘` and `Enter`.
