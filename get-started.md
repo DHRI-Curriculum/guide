@@ -1,6 +1,6 @@
 # How to contribute to/edit the DHRI curriculum
 
-[![Watch the video](video/get-started.gif)](video/get-started.mp4)
+[![Watch the video](video/get-started.gif)](/DHRI-Curriculum/guide/blob/v2.0/video/get-started.mp4?raw=true)
 
 ## Pre-requisite: Make sure software is up-to-date
 
