@@ -31,9 +31,11 @@ In this workshop, you will learn the following skills:
 
 ### Projects that use these skills. 
 
-[variable]
+- Something cool
 
 ### Ethical Considerations
+
+- Something scary
 
 ## Resources (optional)
 
