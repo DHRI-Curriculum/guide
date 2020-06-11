@@ -26,24 +26,24 @@ _In the dialog that appears next, you don't necessarily need to write anything, 
 
 7. Press the cogwheel next to the "Reviewers" heading:
 
-   <img src="images/select-reviewers-1.png" width="50%" alt="Finding cogwheel next to Reviewers" />
+   <img src="images/select-reviewers-1.png" width="30%" alt="Finding cogwheel next to Reviewers" />
 
 8. Select the person who will be reviewing your work:
 
-   <img src="images/select-reviewers-2.png" width="50%" alt="Selecting reviewers from dropdown menu" />
+   <img src="images/select-reviewers-2.png" width="30%" alt="Selecting reviewers from dropdown menu" />
 
 9. Press the cogwheel next to the "Projects" heading:
 
-   <img src="images/select-project-1.png" width="50%" alt="Finding cogwheel next to Projects" />
+   <img src="images/select-project-1.png" width="30%" alt="Finding cogwheel next to Projects" />
 
 10. Select the project that you are working on:
 
-   <img src="images/select-project-2.png" width="50%" alt="Selecting project from dropdown menu" />
+   <img src="images/select-project-2.png" width="30%" alt="Selecting project from dropdown menu" />
 
 11. Press the cogwheel next to the "Milestones" heading:
 
-   <img src="images/select-milestone-1.png" width="50%" alt="Finding cogwheel next to Milestones" />
+   <img src="images/select-milestone-1.png" width="30%" alt="Finding cogwheel next to Milestones" />
 
 12. Select the milestone that you are working on:
 
-   <img src="images/select-milestone-2.png" width="50%" alt="Selecting milestone from dropdown menu" />
+   <img src="images/select-milestone-2.png" width="30%" alt="Selecting milestone from dropdown menu" />
