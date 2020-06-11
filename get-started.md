@@ -1,5 +1,7 @@
 # How to contribute to/edit the DHRI curriculum
 
+[![Watch the video](video/get-started.gif)](video/get-started.mp4)
+
 ## Pre-requisite: Make sure software is up-to-date
 
 The first thing you want to make sure is that your software is all up to date. We will work in VS Code, and using git, which means that you will want to make sure you have VS Code installed and all up to date.
@@ -90,6 +92,18 @@ Make as many of these edits, stages, and commits, throughout your day as you wan
 
 _Once you are done making edits to your files for the day (or at any point that you want to make sure everything is saved in the cloud), you will want to synchronize all of your changes with GitHub._
 
-6. 
+6. Press the icon on the bottom bar that looks like either a little cloud with an arrow going into it, or a "recycling" symbol:
 
-7. 
+   ![Check mark indicating the synchronize button in VS Code](images/recycling-symbol.png)
+
+   ![Check mark indicating the synchronize button in VS Code](images/recycling-symbol-alt.png)
+
+   _Why are there different symbols? The look of them depend on how you may have worked previously with GitHub in VS Code._
+
+7. (_Optional._) VS Code might ask you if you want to periodically run `git fetch` automatically. Select "Yes."
+
+   _Why? VS Code offers here to help make sure that your local copy of the repository is always in sync with the one in the cloud, GitHub._
+
+8. (_Optional._) If you want to make sure that your edits have been correctly uploaded, you can navigate to the repository on GitHub, and make sure you select the correct branch under the dropdown menu. You should see your latest version there.
+
+   ![List of branches on the GitHub page](images/branches.png)
