@@ -68,7 +68,7 @@ _Once you've made edits to your files, you will want to stage, commit, and synch
 
 2. Under the heading "Changes," you will now see a list of all the files, that have changes that are not yet "committed" to the repository (the next "saved stage" of the repository).
 
-_"Stage" and "commit" the files_
+### "Stage" and "commit" the files
 
 3. Press the `+` symbol next to each of the files that you want to stage.
 
@@ -76,4 +76,18 @@ _"Stage" and "commit" the files_
 
    ![Stage and commit part of the workflow in VS Code](images/stage-and-commit.png)
 
-5. Once you have finished your message press `⌘` and `Enter`.
+5. Press the commit button, which looks like a check mark:
+
+   ![Check mark indicating the commit button in VS Code](images/check-mark.png)
+
+   _Alternatively: Once you have finished your message press `⌘` and `Enter`._
+
+If all goes well, you should receive no message at all, and the files should all disappear from your "Changes" list. That means that they have been "committed" to the saved stage that we are currently in.
+
+Make as many of these edits, stages, and commits, throughout your day as you want. Then move on to the next step:
+
+### Synchronize with GitHub
+
+_Once you are done making edits to your files for the day (or at any point that you want to make sure everything is saved in the cloud), you will want to synchronize all of your changes with GitHub._
+
+6. 
