@@ -27,8 +27,13 @@ In this workshop, you will learn the following skills:
 ## Contexts
 
 ### Pre-reading suggestions
-### projects that use these skills. 
-### ETHICS.
+- Book about R
+
+### Projects that use these skills. 
+
+[variable]
+
+### Ethical Considerations
 
 ## Resources (optional)
 
