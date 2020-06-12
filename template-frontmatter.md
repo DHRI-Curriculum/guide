@@ -41,3 +41,10 @@ In this workshop, you will learn the following skills:
 
 - Links to required installations.
 - Shortcut sheets.
+
+## Acknowledgements
+
+- list each person who have contributed to this repository as a bullet point
+- Firstname Lastname
+- Firstname Lastname
+- Firstname Lastname
