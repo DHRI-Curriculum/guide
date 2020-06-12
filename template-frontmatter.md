@@ -1,5 +1,5 @@
 # Frontmatter
- 
+
 ## Abstract
 
 This discussion-based workshop will address an array of ethical questions and concerns for folks doing digital projects or research with an emphasis on consent, personhood, confidentiality, political economy, the politics of knowledge production, and accessibility. In addressing these issues, this workshop will first provide a general overview of ethics for institutional research compliance—including the Belmont Report and Institutional Review Board—and then delve into an array of ethical issues that extend beyond institutional rules.
@@ -9,9 +9,10 @@ The approach of this workshop is premised on the understanding that there is no 
 ## Learning Objectives
 
 In this workshop, you will learn the following skills:
+
 - Identify existing resources (and maybe even a few you haven't thought of yet)
 - Identify your needs
-- Create a workplan 
+- Create a workplan
 - Find new resources
 - Communicate your plan
 
@@ -27,9 +28,10 @@ In this workshop, you will learn the following skills:
 ## Contexts
 
 ### Pre-reading suggestions
+
 - Book about R
 
-### Projects that use these skills. 
+### Projects that use these skills
 
 - Something cool
 
