@@ -1,4 +1,6 @@
-# How to activate the review process
+# The Review Process explained
+
+## How to start the review process
 
 1. **Navigate to the workshop you have edited.**
 
@@ -53,3 +55,23 @@ _In the dialog that appears next, you don't necessarily need to write anything, 
 You're done! Your reviewer will receive an email:
 
 <img src="images/resulting-email.png" width="60%" alt="Resulting email in the inbox of a reviewer" />
+
+## How to fix things
+
+You've received a request to fix something? What to do next?
+
+### I can fix it!
+
+Just push more commits to the same branch that you've been working on all along. They will automatically belong to the same pull request.
+
+### It seems like an issue for a later sprint!
+
+Next to the issue that you can't resolve—or think rather belong in a later sprint—open a new issue.
+
+<img src="images/reference-in-new-issue.png" width="100%" alt="How to select Reference in a new issue from the popup menu on GitHub" />
+
+### I am done making revisions
+
+When you're done making revisions to the repository, you can request a new review by pressing the "Re-request review" button next to your reviewers name:
+
+<img src="images/re-request-review.png" width="50%" alt="How to re-request a review on GitHub" />
