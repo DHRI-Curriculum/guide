@@ -54,7 +54,7 @@ Select `Code` > `Preferences` > `Settings` in the menu. In the window that shows
 
 4. Start typing in the name for the branch that you will be working on (`v2.0-{your name}-edits`, for example)
 
-5. Then press the "Create new branch from..." and then select "v2.0."
+5. Then press the "Create new branch from..." and then select "v2.0." (There may be multiple branches called v2.0, if that is the case, select the one called "origin/2.0.")
 
    _Why? This ensures that you start working from the most recent version that we have in the repository, and will also make it easier for us to synchronize your work when we move ahead to future steps in the editorial workflow.
 
