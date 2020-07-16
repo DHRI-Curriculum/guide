@@ -2,22 +2,21 @@
 
 ## Suggested Further Readings
 
-(For instance)[https://github.com/DHRI-Curriculum/ethics/blob/master/sections/resources.md]
-
 - Use bullet points for each of the sources (in markdown, you use - on a new line to create a bullet point).
-
 - If the reading has a DOI number, make sure to add it. If it does, you do not need to add any additional bibliographic information.
 
 ## Other Tutorials
 
 - Use bullet points for each of the sources (in markdown, you use - on a new line to create a bullet point).
+- Programming Historian
 
 ## Projects or Challenges to Try
 
-- Further exploration, possible little projects
+- Further exploration, possible little projects to try — can also use [links](<link>)
 - Exercises from other open source tutorials
-- Programming Historian
 
 ## Discussion Questions
 
-- Content TBD
+- Discussion question 1
+- Discussion question 2
+- Discussion question 3
