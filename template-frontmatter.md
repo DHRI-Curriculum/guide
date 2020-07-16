@@ -2,19 +2,13 @@
 
 ## Abstract
 
-This discussion-based workshop will address an array of ethical questions and concerns for folks doing digital projects or research with an emphasis on consent, personhood, confidentiality, political economy, the politics of knowledge production, and accessibility. In addressing these issues, this workshop will first provide a general overview of ethics for institutional research compliance—including the Belmont Report and Institutional Review Board—and then delve into an array of ethical issues that extend beyond institutional rules.
-
-The approach of this workshop is premised on the understanding that there is no simple roadmap for practicing 'good ethics' and, indeed, what constitutes 'good' or 'ethical' for one individual may vary from the next and is often reflective of a scholar's political commitments and personal background. Nonetheless, this workshop will foreground key ethical questions to ask (and keep asking!) when designing and doing digital projects or digital research, and key concepts to draw upon when thinking through these questions.
+Abstract
 
 ## Learning Objectives
 
-In this workshop, you will learn the following skills:
-
-- Identify existing resources (and maybe even a few you haven't thought of yet)
-- Identify your needs
-- Create a workplan
-- Find new resources
-- Communicate your plan
+- Learning objective 1
+- Learning objective 2
+- Learning objective 3
 
 ## Estimated time
 
@@ -22,31 +16,31 @@ In this workshop, you will learn the following skills:
 
 ## Prerequisites
 
-- Intro to Python
 - Title of required previous workshop
 
 ## Contexts
 
 ### Pre-reading suggestions
 
-- Book about R
+- Book about R with [link](http://www.google.com)
 
 ### Projects that use these skills
 
-- Something cool
+- A project with [link](http://www.google.com)
 
 ### Ethical Considerations
 
-- Something scary
+- Ethical consideration 1
+- Ethical consideration 2
+- Ethical consideration 3
 
 ## Resources (optional)
 
-- Links to required installations.
-- Shortcut sheets.
+- Links to required installations
+- Shortcut sheets
 
 ## Acknowledgements
 
-- list each person who have contributed to this repository as a bullet point
-- Firstname Lastname
-- Firstname Lastname
-- Firstname Lastname
+- Role: [Firstname Lastname](<personal website>)
+- Role: [Firstname Lastname](<personal website>)
+- Role: [Firstname Lastname](<personal website>)
