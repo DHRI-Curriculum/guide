@@ -20,3 +20,9 @@
 - Discussion question 1
 - Discussion question 2
 - Discussion question 3
+
+## More Resources
+
+- Resource number 1 - you can also use [links](<link>)
+- Resource number 2
+- Resource number 3
