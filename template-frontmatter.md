@@ -16,7 +16,8 @@ Abstract
 
 ## Prerequisites
 
-- Title of required previous workshop
+- [Title of required previous workshop](http://www.github.com/DHRI-Curriculum/<workshop>/) (required)
+- [Title of recommended previous workshop](http://www.github.com/DHRI-Curriculum/<workshop>/) (recommended)
 
 ## Contexts
 
