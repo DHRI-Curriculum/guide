@@ -18,6 +18,7 @@ Abstract
 
 - [Title of required previous workshop](http://www.github.com/DHRI-Curriculum/<workshop>/) (required)
 - [Title of recommended previous workshop](http://www.github.com/DHRI-Curriculum/<workshop>/) (recommended)
+- You can also add other prerequisites here, that can contain links but make sure that the link text is [a descriptive text](<link>)
 
 ## Contexts
 
