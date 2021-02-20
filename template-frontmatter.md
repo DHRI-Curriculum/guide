@@ -20,6 +20,10 @@ Abstract
 - [Title of recommended previous workshop](http://www.github.com/DHRI-Curriculum/<workshop>/) (recommended)
 - You can also add other prerequisites here, that can contain links but make sure that the link text is [a descriptive text](<link>)
 
+## Datasets
+
+- You can add a list of datasets here, as one bullet point at a time, with a [link with descriptive text](<link>).
+
 ## Contexts
 
 ### Pre-reading suggestions
