@@ -20,6 +20,10 @@ Abstract
 - [Title of recommended previous workshop](http://www.github.com/DHRI-Curriculum/<workshop>/) (recommended)
 - You can also add other prerequisites here, that can contain links but make sure that the link text is [a descriptive text](<link>)
 
+## Cheat sheets
+
+- Links to any shortcut sheets.
+
 ## Contexts
 
 ### Pre-reading suggestions
@@ -35,11 +39,6 @@ Abstract
 - Ethical consideration 1
 - Ethical consideration 2
 - Ethical consideration 3
-
-## Resources (optional)
-
-- Links to required installations
-- Shortcut sheets
 
 ## Acknowledgements
 
