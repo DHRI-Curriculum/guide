@@ -20,25 +20,25 @@ Abstract
 - [Title of recommended previous workshop](http://www.github.com/DHRI-Curriculum/<workshop>/) (recommended)
 - You can also add other prerequisites here, that can contain links but make sure that the link text is [a descriptive text](<link>)
 
-## Cheat sheets
-
-- Links to any shortcut sheets.
-
 ## Contexts
 
 ### Pre-reading suggestions
 
-- Book about R with [link](http://www.google.com)
+- Book about R with [link](http://www.google.com). Remember that the linked text automatically becomes the title.
 
 ### Projects that use these skills
 
-- A project with [link](http://www.google.com)
+- A project with [link](http://www.google.com). Remember that the linked text automatically becomes the title.
 
 ### Ethical Considerations
 
 - Ethical consideration 1
 - Ethical consideration 2
 - Ethical consideration 3
+
+### Cheat sheets
+
+- Links to any shortcut sheets with explanatory text. Remember that the linked text automatically becomes the title.
 
 ## Acknowledgements
 
